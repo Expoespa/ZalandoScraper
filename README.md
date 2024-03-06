@@ -30,5 +30,5 @@ pip install -r requirements.txt
 - [ ] Send the card using a Discord Webhook
 
 # 📷Screnshoot
-![image](https://github.com/Expoespa/Zalando-Scraper/assets/84243548/c5bd67e1-6003-4ec4-af08-39587930dccf)
+![image](https://github.com/Expoespa/ZalandoScraper/assets/84243548/3647cf5f-d522-4af4-9f68-59c8dcb80ba2)
 
